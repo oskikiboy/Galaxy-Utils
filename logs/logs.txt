@@ -1,0 +1,16 @@
+[Elite Dev Bot Neo: INFO] First time setup.. Creating the config file, then shutting down!
+[Elite Developer Neo: HashMap] {Staff=289929433165332480}
+[Elite Developer Neo: HashMap] {Staff=Staff}
+[Elite Developer Neo: HashMap] {DJ=292892896015941632}
+[Elite Developer Neo: HashMap] {DJ=DJ}
+[Elite Developer Neo: HashMap] {Muted=290760376717672448}
+[Elite Developer Neo: HashMap] {Muted=Muted}
+[Elite Developer Neo: HashMap] {Member=289929651521060865}
+[Elite Developer Neo: HashMap] {Member=Member}
+[Elite Developer Neo: HashMap] {oskikiboy=193972602392281088}
+[Elite Developer Neo: HashMap] {oskikiboy=oskikiboy}
+[Elite Developer Neo: HashMap] {Support=289921972819853324}
+[Elite Developer Neo: HashMap] {Support=Support}
+[Elite Developer Neo: HashMap] {oskikiboy=193972602392281088}
+[Elite Developer Neo: HashMap] {oskikiboy=oskikiboy}
+[Elite Dev Bot Neo: PM] [Ferocity][Metro] Lag_King sent me this PM: /devneo
